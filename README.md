@@ -23,9 +23,10 @@ The greatest inspiration I got from:
 
   
 ## Script
+You can find the [script](Script.md) for this video here.
 
-
-
+## Shotlist
+You can find the [shotlist](ShotList.md) for this video here.
 ## End Product
   https://youtu.be/p3eYfRL4r2s
 
