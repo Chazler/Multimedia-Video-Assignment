@@ -1,5 +1,5 @@
 | Shot# | Shot | Interior / Exterior | Framing | Audio | Subject | Description |
-|----|----|------------------|---------|-------|---------|-------------|
+|----|----|---------------|---------|-------|---------|----------------|
 | 1 | A | Interior | Medium shot	| Static | Cam | Joeri | Introduction |
 | 2 | A | Interior | Close up | Static | VO | Egg | Show ingredients |
 | 3 | A | Interior | Wide shot | Static | VO | Water cooker | Fill water cooker |
